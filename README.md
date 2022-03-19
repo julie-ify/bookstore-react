@@ -11,8 +11,6 @@ This project is build with:
 - CSS
 - React
 
-<img alt="HEROKU" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> [Link](https://julie-bookstore.herokuapp.com/)
-
 <img alt="NETLIFY" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> [Link](https://elated-jennings-86d14f.netlify.app/)
 
 ## Getting Started;
